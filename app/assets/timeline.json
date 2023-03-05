@@ -1,0 +1,81 @@
+{
+  "work": [
+    {
+      "title": "Specialist Applications Development",
+      "employer": "Nestle Nespresso SA",
+      "startDate": "2023-01-22",
+      "endDate": null,
+      "description": "After less than a year of working at Nespresso I was promoted to a Spcialist role, focusing on Front End Development. My day to day responsibilities include designing, documenting and creating new platforms to be used for internal tooling. In this role I work closely with our Backend, UX and QA developers to ensure the best possible user experience.",
+      "skills": [
+        "Typescript",
+        "React",
+        "Redux",
+        "Storybook",
+        "Jest",
+        "Webpack",
+        "Babel",
+        "Git",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "title": "Associate Applications Development",
+      "employer": "Nestle Nespresso SA",
+      "startDate": "2022-02-22",
+      "endDate": "2023-01-22",
+      "description": "I joined Nespresso as an Associate Applications Developer, working on the initial R&D team for a new platform. My day to day responsibilities included designing, documenting and creating new platforms to be used for internal tooling. In this role I worked primarily alongside our Manager of Applications Development in researching, designing, prototyping and documenting processes for a canonical Customer Relations Management platform utilizing multiple in-house and third party sources.",
+      "skills": [
+        "Typescript",
+        "GoLang",
+        "React",
+        "NodeJS",
+        "Redux",
+        "Nginx",
+        "Swagger",
+        "Storybook",
+        "Docker",
+        "Jest",
+        "Cypress",
+        "Webpack",
+        "Babel",
+        "Kubernetes",
+        "Git",
+        "Jira",
+        "Mural",
+        "Confluence"
+      ]
+    },
+    {
+      "title": "Heavy Equipment Operator",
+      "employer": "Allan Myers",
+      "startDate": "2019-04-1",
+      "endDate": "2021-03-20",
+      "description": "I worked as a Heavy Equipment Operator for 2 years on a Heavy Civil Construction pipe crew running a Cat 953C front-end loader. I was responsible for the safe and efficient operation of the equipment, as well as the maintenance and upkeep of the equipment and the surrounding work area. This job required extensive knowledge of the equipment, process and the ability to work in an extremely fast paced + high pressure team environment.",
+      "skills": [
+        "Time Management",
+        "Problem Solving",
+        "Communication",
+        "Heavy Equipment Operation",
+        "Equipment Maintenance",
+        "Teamwork",
+        "Safety"
+      ]
+    },
+    {
+      "title": "Pipe Layer",
+      "employer": "H&K Group",
+      "startDate": "2013-02-1",
+      "endDate": "2019-03-28",
+      "description": "I worked as a Pipe Layer for 6 years on a Heavy Civil Construction pipe crew. I was directly responsible for the safe and efficient installation of underground storm, water and sanitary sewer pipe. This job required extensive knowledge of the systems, local codes and the ability to work in an extremely fast paced + high pressure team environment.",
+      "skills": [
+        "Time Management",
+        "Problem Solving",
+        "Communication",
+        "Pipe Installation",
+        "Teamwork",
+        "Safety"
+      ]
+    }
+  ]
+}

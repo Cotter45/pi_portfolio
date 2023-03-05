@@ -1,0 +1,53 @@
+{
+  "languages": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "GoLang",
+    "Python",
+    "NodeJS",
+    "HTML",
+    "CSS"
+  ],
+  "frameworks": [
+    "Next.js",
+    "TailwindCSS",
+    "Express",
+    "Remix Run",
+    "NestJS",
+    "Fastify",
+    "Gin-Gonic",
+    "Fiber",
+    "Echo",
+    "Django",
+    "Flask"
+  ],
+  "databases": ["PostgreSQL", "MongoDB", "Redis", "SQLite", "MySQL"],
+  "other": [
+    "Time Management",
+    "Agile",
+    "Scrum",
+    "Problem Solving",
+    "Communication",
+    "Docker",
+    "Kubernetes",
+    "Azure",
+    "Git",
+    "GitHub",
+    "Linux",
+    "MacOS",
+    "Windows",
+    "Bash",
+    "Zsh",
+    "Nginx",
+    "Vim",
+    "VSCode",
+    "Postman",
+    "Swagger",
+    "Figma",
+    "Jira",
+    "Confluence",
+    "Safety",
+    "&more"
+  ]
+}
